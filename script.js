@@ -1,5 +1,4 @@
-alert("This is a to do list web-app ")
-alert("created by farhana")
+
 const item=document.querySelector("#item")
  const toDoBox = document.querySelector("#to-do-box")
 
